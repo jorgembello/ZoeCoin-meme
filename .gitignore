@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Hardhat files
+artifacts/
+cache/
+typechain/
+coverage/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled contracts
+*.json
+
+# Remix files
+remix-workspace/
+
+# IPFS cache
+.ipfs-cache/
